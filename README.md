@@ -1,40 +1,20 @@
-<div align="center">
-  <img src="resources/mmrotate-logo.png" width="450"/>
-  <div>&nbsp;</div>
-  <div align="center">
-    <b><font size="5">OpenMMLab website</font></b>
-    <sup>
-      <a href="https://openmmlab.com">
-        <i><font size="4">HOT</font></i>
-      </a>
-    </sup>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">OpenMMLab platform</font></b>
-    <sup>
-      <a href="https://platform.openmmlab.com">
-        <i><font size="4">TRY IT OUT</font></i>
-      </a>
-    </sup>
-  </div>
-  <div>&nbsp;</div>
-
-</div>
-
-<!--中/英 文档切换-->
 
 <div align="center">
 
-English(README_zh-CN.md)
 
 </div>
-
 
 ## Introduction
 
-MMRotate is an open-source toolbox for rotated object detection based on PyTorch.
-It is a part of the [OpenMMLab project](https://github.com/open-mmlab).
+PGLRNet: Target Pose-Guided and Feature Loss-Reduced Network for Oriented Object Detection in Remote Sensing Images
 
-The master branch works with **PyTorch 1.6+**.
+<div align="center">
+
+  <img src="resources/pipline_image.jpg" width="450"/>
+
+</div>
+
+The master branch works with **PyTorch 1.10.1**.
 
 ## Data Preparation
 
