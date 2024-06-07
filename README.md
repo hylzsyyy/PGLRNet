@@ -55,26 +55,6 @@ It is a part of the [OpenMMLab project](https://github.com/open-mmlab).
 
 The master branch works with **PyTorch 1.6+**.
 
-https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-9ebb-5ba106d3e9d5.MP4
-
-<details open>
-<summary><b>Major Features</b></summary>
-
-- **Support multiple angle representations**
-
-  MMRotate provides three mainstream angle representations to meet different paper settings.
-
-- **Modular Design**
-
-  We decompose the rotated object detection framework into different components,
-  which makes it much easy and flexible to build a new model by combining different modules.
-
-- **Strong baseline and State of the art**
-
-  The toolbox provides strong baselines and state-of-the-art methods in rotated object detection.
-
-</details>
-
 ## Data Preparation
 
 Please refer to [data_preparation.md](tools/data/README.md) to prepare the data.
