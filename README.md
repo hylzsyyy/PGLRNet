@@ -18,21 +18,6 @@
   </div>
   <div>&nbsp;</div>
 
-[![PyPI](https://img.shields.io/pypi/v/mmrotate)](https://pypi.org/project/mmrotate)
-[![docs](https://img.shields.io/badge/docs-latest-blue)](https://mmrotate.readthedocs.io/en/1.x/)
-[![badge](https://github.com/open-mmlab/mmrotate/workflows/build/badge.svg)](https://github.com/open-mmlab/mmrotate/actions)
-[![codecov](https://codecov.io/gh/open-mmlab/mmrotate/branch/main/graph/badge.svg)](https://codecov.io/gh/open-mmlab/mmrotate)
-[![license](https://img.shields.io/github/license/open-mmlab/mmrotate.svg)](https://github.com/open-mmlab/mmrotate/blob/main/LICENSE)
-[![open issues](https://isitmaintained.com/badge/open/open-mmlab/mmrotate.svg)](https://github.com/open-mmlab/mmrotate/issues)
-[![issue resolution](https://isitmaintained.com/badge/resolution/open-mmlab/mmrotate.svg)](https://github.com/open-mmlab/mmrotate/issues)
-
-[📘Documentation](https://mmrotate.readthedocs.io/en/1.x/) |
-[🛠️Installation](https://mmrotate.readthedocs.io/en/1.x/install.html) |
-[👀Model Zoo](https://mmrotate.readthedocs.io/en/1.x/model_zoo.html) |
-[🆕Update News](https://mmrotate.readthedocs.io/en/1.x/notes/changelog.html) |
-[🚀Ongoing Projects](https://github.com/open-mmlab/mmrotate/projects) |
-[🤔Reporting Issues](https://github.com/open-mmlab/mmrotate/issues/new/choose)
-
 </div>
 
 <!--中/英 文档切换-->
