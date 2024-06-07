@@ -1,1 +1,0 @@
-bash tools/dist_test.sh configs/rotated_rfa/rotated_rfa_neck_m-3x-dota_ms.py work_dirs/rotated_rfa_neck_m-3x-dota_ms/epoch_24.pth 6
