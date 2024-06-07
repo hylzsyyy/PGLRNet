@@ -1,0 +1,1 @@
+bash tools/dist_train.sh configs/rotated_rfa/rotated_rfa_neck_m-3x-dota_ms.py 4
