@@ -7,6 +7,7 @@
 ## Introduction
 
 PGLRNet: Target Pose-Guided and Feature Loss-Reduced Network for Oriented Object Detection in Remote Sensing Images
+[![DOI](https://zenodo.org/badge/810631223.svg)](https://zenodo.org/doi/10.5281/zenodo.11522963)
 
 <div align="center">
 
